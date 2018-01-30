@@ -5,7 +5,7 @@ module.exports = {
   alpha_num: ':attribute phải là ký tự chữ cái hoặc chữ số.',
   between: ':attribute phải nằm trong khoảng :min và :max.',
   confirmed: ':attribute xác nhận không trùng khớp.',
-  email: ':attribute không phải là email.',
+  email: 'Email nhập vào không đúng.',
   date: ':attribute không phải là ngày hợp lệ',
   def: 'Thuộc tính :attribute có lỗi.',
   digits: ':attribute phải là số và có chiều dài bằng :digits.',
